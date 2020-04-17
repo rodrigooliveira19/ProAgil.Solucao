@@ -1,0 +1,9 @@
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/bin/Debug/netstandard2.0/ProAgil.Domain.deps.json
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/bin/Debug/netstandard2.0/ProAgil.Domain.dll
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/bin/Debug/netstandard2.0/ProAgil.Domain.pdb
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/obj/Debug/netstandard2.0/ProAgil.Domain.csprojAssemblyReference.cache
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/obj/Debug/netstandard2.0/ProAgil.Domain.csproj.CoreCompileInputs.cache
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/obj/Debug/netstandard2.0/ProAgil.Domain.AssemblyInfoInputs.cache
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/obj/Debug/netstandard2.0/ProAgil.Domain.AssemblyInfo.cs
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/obj/Debug/netstandard2.0/ProAgil.Domain.dll
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Domain/obj/Debug/netstandard2.0/ProAgil.Domain.pdb

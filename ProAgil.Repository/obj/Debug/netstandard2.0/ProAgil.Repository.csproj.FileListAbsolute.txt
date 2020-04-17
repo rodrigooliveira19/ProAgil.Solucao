@@ -1,0 +1,12 @@
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/bin/Debug/netstandard2.0/ProAgil.Repository.deps.json
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/bin/Debug/netstandard2.0/ProAgil.Repository.dll
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/bin/Debug/netstandard2.0/ProAgil.Repository.pdb
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/bin/Debug/netstandard2.0/ProAgil.Domain.dll
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/bin/Debug/netstandard2.0/ProAgil.Domain.pdb
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.csprojAssemblyReference.cache
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.csproj.CoreCompileInputs.cache
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.AssemblyInfoInputs.cache
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.AssemblyInfo.cs
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.csproj.CopyComplete
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.dll
+/cursos/asp_net_core_c1/DOTNETCORE/ProAgil.Solucao/ProAgil.Repository/obj/Debug/netstandard2.0/ProAgil.Repository.pdb
