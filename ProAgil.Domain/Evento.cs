@@ -4,7 +4,7 @@ namespace ProAgil.Domain
 {
     public class Evento
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public string Local { get; set; }
         public string DateTime { get; set; }
         public string Tema { get; set; }
@@ -13,7 +13,7 @@ namespace ProAgil.Domain
         public string telefone { get; set; }
         public string email { get; set; }
         public List<Lote> Lotes { get; set; }
-        public List<RedeSocial> RedesSocials { get; set; }
+        public List<RedeSocial> RedesSociais { get; set; }
         public List<PalestranteEvento> PalestrantesEvento { get; set; }
         
     }
